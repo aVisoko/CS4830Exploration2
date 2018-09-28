@@ -1,4 +1,4 @@
-# CS4830Exploration2
+# CS4830 Exploration 2
 
 #### This assigment shows the exploration that I have completed in regards to using and implementing Firebase. A backend Framework built by Google.
 
